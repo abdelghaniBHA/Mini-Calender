@@ -47,3 +47,8 @@
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
+
+#date{
+    font-size: 100px;
+    line-height: 90px;
+}
